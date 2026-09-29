@@ -1,4 +1,4 @@
-### OpenStud
+# OpenStud
 
 ![A sharp, blocky logo that says OpenStud](https://github.com/user-attachments/assets/39f8dd8f-f9ea-4d3d-95da-6181b496d1d1)
 
