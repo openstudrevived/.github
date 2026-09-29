@@ -10,6 +10,6 @@ ampelc - He's the original creator of OpenStud!
 
 supervoidcoder - He works on the Client and Studio.
 
-Graison Parkhurst (GvYoutube) - She works on the Client and Studio, and made the revival organization.
+GvYoutube - She works on the Client and Studio, and made the revival organization.
 
 PPPDUD - He... actually, we don't know yet.
