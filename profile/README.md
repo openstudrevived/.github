@@ -2,7 +2,7 @@
 
 ![A sharp, blocky logo that says OpenStud](https://github.com/user-attachments/assets/39f8dd8f-f9ea-4d3d-95da-6181b496d1d1)
 
-OpenStud is a fun open-source Roblox clone licenced under the GNU AGPL. The name combines **_Open_** Source and Roblox's unit of measurement, **_Stud__**s.
+OpenStud is a fun open-source Roblox clone licenced under the GNU AGPL. The name combines **_Open_** Source and Roblox's unit of measurement, called a **_Stud_**.
 
 ### Team
 
